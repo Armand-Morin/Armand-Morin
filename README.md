@@ -1,24 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Armand
+#### I am student French in CS at CentraleSupelec
+![I am student French in CS at CentraleSupelec](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<
-**Armand-Morin/Armand-Morin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this projects just for work and fun also 
 
-Here are some ideas to get you started:
+Skills: Python 
 
-- 🔭 I’m currently working at CentraleSupelec
-- 🌱 I’m currently learning ML/RL/DL
-- 👯 I’m looking to collaborate on new AI projects.
-- ⚡ Fun fact: 
->
+- 🔭 I’m currently working on this page. 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Armand-Morin)
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Armand-Morin)  
 
-![Armand's github stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&theme=radical) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Armand-Morin)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Armand-Morin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Armand-Morin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Armand-Morin&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin)  
+
+![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
