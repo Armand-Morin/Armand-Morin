@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Armand           ![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
+### Hi there 👋, my name is Armand          
+![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
 #### I am student French in CS at CentraleSupelec
 ![I am student French in CS at CentraleSupelec](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
