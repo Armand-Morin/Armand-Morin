@@ -17,8 +17,8 @@ Skills: Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
