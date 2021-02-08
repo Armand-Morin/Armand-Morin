@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Armand          
 ![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
-<p align=center><a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a></p>
+<p align=center>
+  <a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a>
+  <a href="https://gpvc.arturio.dev/Armand-Morin"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views"></a>
+</p>
 #### I am student French in CS at CentraleSupelec
 
 I made this projects just for work and fun also 
