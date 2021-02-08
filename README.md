@@ -9,7 +9,9 @@ Skills: Python
 - 🔭 I’m currently working on this page. 
 
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
