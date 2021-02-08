@@ -1,14 +1,10 @@
 ### Hi there 👋, my name is Armand          
-![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
 <p align=center>
   <a href="https://gpvc.arturio.dev/Armand-Morin"><img  src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views"></a>
 </p>
 #### I am student French in CS at CentraleSupelec
 
 I made this projects just for work and fun also 
-
-
-- 🔭 I’m currently working on this page. 
 
 
 <!--START_SECTION:waka-->
@@ -21,8 +17,9 @@ Python   47 mins         ██████████████████�
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-
+<details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+</details>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin&theme=radical)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical)  
