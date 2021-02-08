@@ -19,11 +19,10 @@ Python   47 mins         ██████████████████�
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub streak stats"></a>
 </p>
 
-<details>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-</details>
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin)  
 
