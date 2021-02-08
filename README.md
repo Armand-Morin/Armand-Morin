@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Armand          
 ![Profile views](https://gpvc.arturio.dev/Armand-Morin)  
 <p align=center>
-  <a href="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views"></a>
+  <a href="https://gpvc.arturio.dev/Armand-Morin"><img  src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views"></a>
 </p>
 #### I am student French in CS at CentraleSupelec
 
