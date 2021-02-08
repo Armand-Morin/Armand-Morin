@@ -10,6 +10,9 @@ Skills: Python
 
 
 <!--START_SECTION:waka-->
+```text
+Python   47 mins         █████████████████████████   99.92 % 
+```
 <!--END_SECTION:waka-->
 
 
