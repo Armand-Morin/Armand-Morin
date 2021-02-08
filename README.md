@@ -4,7 +4,6 @@
 
 I made this projects just for work and fun also 
 
-Skills: Python 
 
 - 🔭 I’m currently working on this page. 
 
