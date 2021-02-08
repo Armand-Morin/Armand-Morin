@@ -16,7 +16,9 @@ Python   47 mins         ██████████████████�
 <img src="https://wakatime.com/share/@b6da5011-d12e-47d0-ac0c-60847ca1034a/f7da7e39-d816-4450-afe8-53d8244bad51.svg"/>
 <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+<p align=center>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+</p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin&theme=radical)  
