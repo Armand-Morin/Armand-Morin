@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Armand          
+## Hi there 👋, my name is Armand          
 <p align=center>
   <a href="https://gpvc.arturio.dev/Armand-Morin"><img  src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views"></a>
 </p>
 
-## I am student French in CS at CentraleSupelec
+### I am student French in CS at CentraleSupelec
 
 I made this projects just for work and fun also 
 
