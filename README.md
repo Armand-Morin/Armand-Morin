@@ -10,7 +10,7 @@ I made this projects just for work and fun also
 
 <!--START_SECTION:waka-->
 ```text
-Python   27 hours         █████████████████████████   99.92 % 
+Python:   3 months 5 days 27 hours         █████████████████████████   99.92 % 
 ```
 <!--END_SECTION:waka-->
 
