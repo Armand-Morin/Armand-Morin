@@ -10,7 +10,9 @@ I made this projects just for work and fun also
 
 <!--START_SECTION:waka-->
 ```text
-Python   47 mins         █████████████████████████   99.92 % 
+Python     4 hrs 18 mins   ████████████████████████▒   96.97 % 
+Text       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+CSV        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
