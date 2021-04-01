@@ -11,6 +11,7 @@
 <p align=center> I made this projects just for work and fun also </p>
 </p>
 
+
 <!--START_SECTION:waka-->
 ```text
 Python       1 hr 12 mins    ███████████████████████▓░   94.04 % 
@@ -21,11 +22,14 @@ Text         1 min           ▒░░░░░░░░░░░░░░░░
 
 
 <p align=center>
-  <a href="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical"><img  src="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical" alt="GitHub stats"></a>
+
 </p>
-<p align=center>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub streak stats"></a>
-</p>
+
+
+<a href="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical"><img  src="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical" alt="GitHub stats"></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub streak stats"></a>
+
+
 <!--p align=center>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin" alt="Top Langs"></a>
 </p-->
