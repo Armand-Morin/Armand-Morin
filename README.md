@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, it's Armand 
-  Welcome to my personal Git page 
-<a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 230px; height: 44px;" width="230" height="44" />
+<p align=center>  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 230px; height: 44px;" width="230" height="44" /> </p>
 </a>
+<h2 align="center">  Welcome to my personal Git page </h2>
 </h1>
 
-### I am student French in CS at CentraleSupelec
+<p align=center>
+<h3 align="center">  I am French student in CS at CentraleSupelec </h3>
 
-Hope you enjoy the projects
-I made this projects just for work and fun also 
-
+<p align=center> Hope you enjoy the projects </p>
+<p align=center> I made this projects just for work and fun also </p>
+</p>
 
 <!--START_SECTION:waka-->
 ```text
