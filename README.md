@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, it's Armand 
   Welcome to my personal Git page 
-<a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 220px; height: 44px;" width="220" height="44" />
+<a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 230px; height: 44px;" width="230" height="44" />
 </a>
 </h1>
 
