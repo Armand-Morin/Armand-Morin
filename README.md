@@ -4,13 +4,14 @@
 </p>
 
 
-<h1 align="center">Hi there 👋, my name is Armand 
-<a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 200px; height: 44px;" width="200" height="44" />
+<h1 align="center">Hi there 👋, my it's Armand here and Welcome to my personal Git page 
+<a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 220px; height: 44px;" width="220" height="44" />
 </a>
 </h1>
 
 ### I am student French in CS at CentraleSupelec
 
+Hope you enjoy the projects
 I made this projects just for work and fun also 
 
 
