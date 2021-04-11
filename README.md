@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, it's Armand 
+<h1 align="center">Hi there 👋, it's Armand  
 <p align=center>  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank"><img src="https://gpvc.arturio.dev/Armand-Morin" alt="Profile views" style="width: 120px; height: 22px;" width="120" height="22" /> </p>
 </a>
 <h2 align="center">  Welcome to my personal Git page </h2>
