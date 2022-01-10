@@ -3,6 +3,10 @@
 </a>
 <h2 align="center">  Welcome to my personal Git page </h2>
 </h1>
+ <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Armand-Morin/Armand-Morin/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p align=center>
 <h3 align="center">  I am French student in CS at CentraleSupelec </h3>
