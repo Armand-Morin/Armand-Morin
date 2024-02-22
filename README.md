@@ -17,15 +17,26 @@
  
  
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+  
+[![Armand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armand_morin&layout=compact&theme=radical)](https://wakatime.com/@armand_morin)
+
 <!--END_SECTION:waka-->
 
-<a href="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical"><img  src="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical" alt="GitHub stats"></a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub streak stats"></a>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Armand-Morin)  
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin" alt="Top Langs"></a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub Streak Stats">
+  </a>
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Armand-Morin&theme=github" alt="GitHub Activity Graph">
+</p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin" alt="Top Langs">
+  </a>
+</p>
