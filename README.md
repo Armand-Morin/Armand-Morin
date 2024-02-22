@@ -2,7 +2,8 @@
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">    
-  <img src="https://img.shields.io/badge/Views-Counting...-blue"/>    <img src="https://img.shields.io/badge/Profile%20Views-Over%209000!-brightgreen" alt="Profile views"/> 
+  <img src="https://img.shields.io/badge/Views-Counting...-blue"/>   
+  <img src="https://img.shields.io/badge/Profile%20Views-Over%209000!-brightgreen" alt="Profile views"/> 
   <img src="https://img.shields.io/badge/Armand_Morin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armand-morin" alt="Linkedin" /> 
   </a>
 </p>
@@ -10,8 +11,20 @@
 <h2 align="center">  Welcome to my personal Git page </h2>
 </h1>
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph   </h1>
-<p align="center">       <img src="https://github.com/Armand-Morin/Armand-Morin/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>        </p>
+<h1 align='center'> Watch a <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="45px"> eating my contribution graph   </h1>
+<p align="center">       
+ <!-- <img src="https://github.com/Armand-Morin/Armand-Morin/blob/output/github-contribution-grid-snake.svg" alt="snake"> -->
+ </center>        
+ </p>
+<p align="center">       
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" alt="parrot" width="110" height="120">
+ </center>        
+ </p>
 
 <p align=center>
 <h3 align="center">  I am French student in CS at CentraleSupelec </h3>
