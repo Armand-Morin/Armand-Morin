@@ -2,6 +2,7 @@
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">
+    <img src="https://img.shields.io/badge/Views-Counting...-blue"/>
   <img src="https://img.shields.io/badge/Profile%20Views-Over%209000!-brightgreen" alt="Profile views"/> 
  </p>
 </a>
@@ -22,9 +23,6 @@
 <p align=center> I made this projects just for work and fun also </p>
 </p>
 
-
-
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=armand_morin&layout=compact&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armand_morin&layout=compact&theme=radical" alt="GitHub Stats">
@@ -44,11 +42,13 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Armand-Morin&theme=github" alt="GitHub Activity Graph">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin&layout=compact&theme=radical" alt="Top Langs">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armand-Morin" alt="Top Langs">
+  <a href="https://media.giphy.com/media/3oz8xAmBuHhBOOXIv6/giphy.gif">
+    <img src="https://media.giphy.com/media/3oz8xAmBuHhBOOXIv6/giphy.gif" alt="GitHub Stats">
   </a>
 </p>
