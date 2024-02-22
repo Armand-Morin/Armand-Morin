@@ -30,12 +30,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armand-Morin&theme=radical" alt="GitHub Streak Stats">
   </a>
@@ -49,6 +43,7 @@
 
 <p align="center">
   <a href="https://media.giphy.com/media/3oz8xAmBuHhBOOXIv6/giphy.gif">
-    <img src="https://media.giphy.com/media/3oz8xAmBuHhBOOXIv6/giphy.gif" alt="GitHub Stats">
+    <img src="https://media.giphy.com/media/3oz8xAmBuHhBOOXIv6/giphy.gif" alt="GitHub Stats" width="220" height="240">
   </a>
 </p>
+
