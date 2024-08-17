@@ -37,6 +37,13 @@
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=armand_morin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=armand_morin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000" alt="GitHub Stats">
   </a>
+
+ <figure><embed src="https://wakatime.com/share/@armand_morin/b07ebad2-0d54-4447-ac59-0417f94fee3e.svg"></embed></figure>
+ <figure><embed src="https://wakatime.com/share/@armand_morin/447e550b-7491-4713-9a1f-76569f3172f5.svg"></embed></figure>
+
+ <figure><embed src="https://wakatime.com/share/@armand_morin/59ac01ab-ef42-47f0-8371-c172ce2e638b.svg"></embed></figure>
+ <figure><embed src="https://wakatime.com/share/@armand_morin/99cc90cb-ff06-4229-9392-6f6fec720701.svg"></embed></figure>
+ 
 </p>
 
 <p align="center">
