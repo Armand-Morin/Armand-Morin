@@ -2,7 +2,7 @@
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">  
-  [![wakatime](https://wakatime.com/badge/user/b6da5011-d12e-47d0-ac0c-60847ca1034a.svg)](https://wakatime.com/@b6da5011-d12e-47d0-ac0c-60847ca1034a)
+  <a href="https://wakatime.com/@b6da5011-d12e-47d0-ac0c-60847ca1034a"><img src="https://wakatime.com/badge/user/b6da5011-d12e-47d0-ac0c-60847ca1034a.svg" alt="Total time coded since Feb 6 2021" /></a>
   <img src="https://img.shields.io/badge/Views-Counting...-blue"/>   
   <img src="https://img.shields.io/badge/Profile%20Views-Over%209000!-brightgreen" alt="Profile views"/> 
   <img src="https://img.shields.io/badge/Armand_Morin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armand-morin" alt="Linkedin" /> 
