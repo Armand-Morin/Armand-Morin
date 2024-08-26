@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, it's Armand.                
+<h1 align="center">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's Armand.                
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">  
@@ -12,7 +12,15 @@
 <h2 align="center">  Welcome to my personal Git page </h2>
 </h1>
 
-<h1 align='center'> Watch a <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="45px"> eating my contribution graph   </h1>
+<h1 align='center'> 
+ Watch a <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="45px"> eating my contribution graph  
+</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
