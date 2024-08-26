@@ -35,13 +35,13 @@
 
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@armand_morin/0d92163a-57ba-494c-b450-86a3ea503add.svg"></embed></figure>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/6d0afd7e-94f0-4cef-bdd1-9ad8963b5e15.png" /></a>
+ 
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/b07ebad2-0d54-4447-ac59-0417f94fee3e.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/447e550b-7491-4713-9a1f-76569f3172f5.png" /></a>
 
- <figure><embed src="https://wakatime.com/share/@armand_morin/b07ebad2-0d54-4447-ac59-0417f94fee3e.svg"></embed></figure>
- <figure><embed src="https://wakatime.com/share/@armand_morin/447e550b-7491-4713-9a1f-76569f3172f5.svg"></embed></figure>
-
- <figure><embed src="https://wakatime.com/share/@armand_morin/59ac01ab-ef42-47f0-8371-c172ce2e638b.svg"></embed></figure>
- <figure><embed src="https://wakatime.com/share/@armand_morin/99cc90cb-ff06-4229-9392-6f6fec720701.svg"></embed></figure>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/59ac01ab-ef42-47f0-8371-c172ce2e638b.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/99cc90cb-ff06-4229-9392-6f6fec720701.png" /></a>
  
 </p>
 
