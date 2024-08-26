@@ -52,7 +52,7 @@
 <p align="center">
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/c616a32c-c2fa-4790-8d23-ee29d0139052.png" /></a>
  
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/83c7aa2a-9aa6-4d0f-8c07-9bf21b118e5f.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/be527e7c-f919-43e0-991e-3e5d217a84d6.png" /></a>
 
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/e3ee5961-ed13-4e69-90eb-28dbf427c14a.png" /></a>
  
