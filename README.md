@@ -50,7 +50,7 @@
 
 
 <p align="center">
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/1075cb1b-d8ca-4afb-9aba-ba17f769f0a1.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/c616a32c-c2fa-4790-8d23-ee29d0139052.png" /></a>
  
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/b07ebad2-0d54-4447-ac59-0417f94fee3e.png" /></a>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@armand_morin/447e550b-7491-4713-9a1f-76569f3172f5.png" /></a>
