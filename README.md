@@ -16,11 +16,8 @@
  Watch a <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="45px"> eating my contribution graph  
 </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![GitHub Contribution Grid Snake](https://github.com/Armand-Morin/Armand-Morin/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
