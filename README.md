@@ -1,6 +1,10 @@
 <h1 align="center">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's Armand.     
 
- <div class="tenor-gif-embed" data-postid="17554242" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/spouting-whale-joypixels-whale-cheerfulness-happiness-gif-17554242">Spouting Whale Joypixels Sticker</a>from <a href="https://tenor.com/search/spouting+whale-stickers">Spouting Whale Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Spouting Whale Joypixels Sticker](https://media.tenor.com/images/17554242/spouting-whale-joypixels-whale-cheerfulness-happiness.gif)
+
+[Spouting Whale Joypixels Sticker](https://tenor.com/view/spouting-whale-joypixels-whale-cheerfulness-happiness-gif-17554242)
+from [Spouting Whale Stickers](https://tenor.com/search/spouting+whale-stickers)
+
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">  
