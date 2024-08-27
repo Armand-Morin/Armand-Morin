@@ -1,9 +1,4 @@
 <h1 align="center">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's Armand.     
-
-<img  src=https://media.tenor.com/images/17554242/spouting-whale-joypixels-whale-cheerfulness-happiness.gif width="30px">
-<img  src=https://tenor.com/view/spouting-whale-joypixels-whale-cheerfulness-happiness-gif-17554242 width="30px">
-<img  src=https://tenor.com/search/spouting+whale-stickers width="30px">
-
  
 <p align=center>  
  <a href="https://gpvc.arturio.dev/Armand-Morin" target="_blank">  
