@@ -1,9 +1,8 @@
 <h1 align="center">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's Armand.     
 
-![Spouting Whale Joypixels Sticker](https://media.tenor.com/images/17554242/spouting-whale-joypixels-whale-cheerfulness-happiness.gif)
-
-[Spouting Whale Joypixels Sticker](https://tenor.com/view/spouting-whale-joypixels-whale-cheerfulness-happiness-gif-17554242)
-from [Spouting Whale Stickers](https://tenor.com/search/spouting+whale-stickers)
+<img  src=https://media.tenor.com/images/17554242/spouting-whale-joypixels-whale-cheerfulness-happiness.gif width="30px">
+<img  src=https://tenor.com/view/spouting-whale-joypixels-whale-cheerfulness-happiness-gif-17554242 width="30px">
+<img  src=https://tenor.com/search/spouting+whale-stickers width="30px">
 
  
 <p align=center>  
