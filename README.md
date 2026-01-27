@@ -15,7 +15,7 @@
 <h2 align="center">
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true)
- ---
+
 </h2>
 
 <h1 align='center'> 
