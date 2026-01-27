@@ -13,11 +13,8 @@
 </h1>
 
 <h2 align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true)
 </h2>
----
-
 
 <h1 align='center'> 
  Watch a <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="45px"> eating my contribution graph  
