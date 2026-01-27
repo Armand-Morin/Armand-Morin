@@ -13,6 +13,7 @@
 </h1>
 
 <h2 align="center">
+ GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armand-Morin&show_icons=true)
 </h2>
 
