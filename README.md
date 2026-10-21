@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Views-Counting...-blue"/>   
   <img src="https://img.shields.io/badge/Profile%20Views-Over%209000!-brightgreen" alt="Profile views"/> 
   <img src="https://img.shields.io/badge/Armand_Morin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armand-morin" alt="Linkedin" /> 
+  <a href="https://github.com/sponsors/Armand-Morin"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor" /></a>
   </a>
 </p>
 
